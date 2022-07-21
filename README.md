@@ -1,0 +1,6 @@
+- Hi, I’m @bursofa !
+- I created this file because GitHub suggested me to do so.
+- I’m a student and a research assistant at Saint-Petersburg State University, faculty of sociology.
+- I'm interested in learning more about application of programming and computational analysis to social data. 
+- For now I'm trying to wrap my head around statistical methods in R.
+- I have no idea how GitHub works, but I figured I need to set up an account and find out)))
